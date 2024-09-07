@@ -7,7 +7,7 @@
 
 int main(){
   std::vector <std::string> wordlist;
-  std::vector <std::vector <std::string>> wordlistlist;
+  std::vector <std::vector <std::string> > wordlistlist;
   std::string word;
   std::fstream input;
   std::fstream output;
